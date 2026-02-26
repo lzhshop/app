@@ -1,6 +1,5 @@
 # AdMob
 google.com, pub-8856123129429260, DIRECT, f08c47fec0942fa0
-google.com, pub-8856123129429260, RESELLER, f08c47fec0942fa0
 
 # IronSource / LevelPlay
 ironsource.com, 241e11d65, DIRECT
